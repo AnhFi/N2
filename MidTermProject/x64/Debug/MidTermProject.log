@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Anh Phi\Desktop\MidTermProject\MidTermProject\Source.cpp(428,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Anh Phi\Desktop\MidTermProject\MidTermProject\Source.cpp(463,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Anh Phi\Desktop\MidTermProject\MidTermProject\Source.cpp(503,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Anh Phi\Desktop\MidTermProject\MidTermProject\Source.cpp(557,1): warning C4715: 'QuanLy::dangNhap': not all control paths return a value
+  MidTermProject.vcxproj -> C:\Users\Anh Phi\Desktop\MidTermProject\x64\Debug\MidTermProject.exe
